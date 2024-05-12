@@ -24,7 +24,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://github.com/Saurabhvermaji/TodoApp.git",
+  "homepage": "https://saurabhvermaji.github.io/TodoApp",
   "eslintConfig": {
     "extends": [
       "react-app",
