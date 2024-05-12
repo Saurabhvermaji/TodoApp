@@ -1,0 +1,21 @@
+header {
+    background-color: black;
+    padding: 15px;
+}
+
+.headersection {
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+.applogo {
+    max-width: 80px;
+    height: auto;
+}
+
+@media (max-width: 768px) {
+    .applogo {
+        max-width: 60px;
+    }
+}
