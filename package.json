@@ -2,7 +2,7 @@
   "name": "todo-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Saurabhvermaji/TodoApp.git",
+  "homepage": "https://github.com/Saurabhvermaji/TodoApp",
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.3",
     "@testing-library/jest-dom": "^5.17.0",
