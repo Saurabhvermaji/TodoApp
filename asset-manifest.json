@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Saurabhvermaji/TodoApp.git/static/css/main.fb176be9.css",
-    "main.js": "/Saurabhvermaji/TodoApp.git/static/js/main.2981c59b.js",
-    "index.html": "/Saurabhvermaji/TodoApp.git/index.html",
-    "main.fb176be9.css.map": "/Saurabhvermaji/TodoApp.git/static/css/main.fb176be9.css.map",
-    "main.2981c59b.js.map": "/Saurabhvermaji/TodoApp.git/static/js/main.2981c59b.js.map"
+    "main.css": "/TodoApp/static/css/main.fb176be9.css",
+    "main.js": "/TodoApp/static/js/main.2981c59b.js",
+    "index.html": "/TodoApp/index.html",
+    "main.fb176be9.css.map": "/TodoApp/static/css/main.fb176be9.css.map",
+    "main.2981c59b.js.map": "/TodoApp/static/js/main.2981c59b.js.map"
   },
   "entrypoints": [
     "static/css/main.fb176be9.css",
