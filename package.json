@@ -1,6 +1,6 @@
 {
-  "homepage": "https://saurabhvermaji.github.io/TodoApp",
   "name": "todo-app",
+  "homepage": "https://saurabhvermaji.github.io/TodoApp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
